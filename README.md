@@ -28,5 +28,4 @@ This project focuses on predicting **customer churn** in banks using **machine l
 - **Data Visualization**: Matplotlib, Seaborn  
 
 #### *Conclusion*  
-This project demonstrates the power of machine learning in addressing business-critical problems like customer churn. By identifying at-risk customers early, banks can implement proactive measures to enhance customer satisfaction, reduce churn, and improve long-term profitability.  
-
+This project demonstrates the power of machine learning in addressing business-critical problems like customer churn. By identifying at-risk customers early, banks can implement proactive measures to enhance customer satisfaction, reduce churn, and improve long-term profitability.
