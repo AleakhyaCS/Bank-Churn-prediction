@@ -11,7 +11,7 @@ This app predicts whether a customer will churn and assigns them to a risk clust
 
 """)
 
-st.image(r'C:\Users\DELL\ML_proj\pr3_0A4123BF0F869513CFAC.png')
+st.image(r'pr3_0A4123BF0F869513CFAC.png')
 
 st.sidebar.header("Customer Banking Info")
 
